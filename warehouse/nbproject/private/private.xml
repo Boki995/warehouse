@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/data/Employees.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/DAO/EmployeesDAO.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/data/OrderDetails.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/DAO/CustomerDAO.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/service/AdvancedService.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/izuzetak/SkladisteIzuzetak.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/data/Orders.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/DAO/OrderDetailsDAO.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/DAO/SuppliersDAO.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/data/Suppliers.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/DAO/ResourcesManager.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/DAO/OrdersDAO.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/service/OrderDetailsService.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/main/Ispit.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/DAO/ProductsDAO.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/service/OrderService.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/data/Customer.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/service/ProductService.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/DAO/ShippersDAO.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/data/Shippers.java</file>
+            <file>file:/C:/Users/Dulnica/Documents/NetBeansProjects/Ispit/src/com/singidunum/projectKDP/data/Products.java</file>
+        </group>
+    </open-files>
+</project-private>
